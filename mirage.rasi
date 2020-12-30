@@ -16,9 +16,9 @@
     scrollbar: true;
 
     /* Mirage colors */
-    mirage-bg:                 #0e10165c;
+    mirage-bg:                 #2127335c;
     mirage-fg:                 #D6BA78;
-    mirage-fg-selected:        #0e1016;
+    mirage-fg-selected:        #212733;
     mirage-urgent:             #960E0E;
     mirage-urgent-selected:    #5D0909;
     mirage-selected:           #0D6EDE;
